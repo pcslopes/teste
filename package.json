@@ -1,0 +1,26 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "minha primeira aplicacao",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcslopes/teste.git"
+  },
+  "keywords": [
+    "teste"
+  ],
+  "bugs": {
+    "url": "https://github.com/pcslopes/teste/issues"
+  },
+  "homepage": "https://github.com/pcslopes/teste#readme"
+}
